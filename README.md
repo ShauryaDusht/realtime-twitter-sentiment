@@ -14,13 +14,6 @@ This is a **Streamlit-based web app** for real-time sentiment analysis of tweets
 - **Filter and search tweets** based on sentiment
 - **Download results** as a CSV file
 
-## Upcoming Feature
-
-- **Offline Sentiment Analysis:**
-  - Adding **Selenium** to scrape tweets without using Twitter API.
-  - Generate sentiment analysis results even when API access is unavailable.
-  - Store and analyze past scraped tweets locally.
-
 ## Installation & Usage
 
 ### Clone the Repository
