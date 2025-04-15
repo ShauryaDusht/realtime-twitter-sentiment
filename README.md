@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Check out the deployed version of the app: [Live Demo](https://realtime-twitter-sentiment-ehchuotnp2n2fn63ajamwx.streamlit.app/)
+Check out the deployed version of the app: [Live Demo](https://realtime-twitter-sentiment-mcmal5dugzzahzao34dpvh.streamlit.app)
 
 This is a **Streamlit-based web app** for real-time sentiment analysis of tweets using **Twitter API v2**. The app fetches tweets based on user-input keywords and performs sentiment analysis using **a custom sentiment analysis model** *(previously used VADER and TextBlob)*. It also provides interactive visualizations and allows downloading the analyzed data.
 
